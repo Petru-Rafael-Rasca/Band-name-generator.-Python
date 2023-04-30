@@ -1,6 +1,7 @@
 #1. Create a greeting for your program to welcome the users.
 print("Welcome to Band Name generator!")
 
+
 #2. Ask the user for the city that they grew up in.
 city_name = input("What is the name of city you grew up?\n")
 
